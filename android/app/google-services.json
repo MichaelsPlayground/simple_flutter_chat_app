@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938595332712",
+    "project_id": "simplechat-6671c",
+    "storage_bucket": "simplechat-6671c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938595332712:android:fe0bdb5362fbded6b681dd",
+        "android_client_info": {
+          "package_name": "de.fluttercrypto1.simple_flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938595332712-1iknefgv6tm8b7kugrlclidr46isfsiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXg20AT1zSAG4uWmP4rC5wRKUeR4QWGVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938595332712-1iknefgv6tm8b7kugrlclidr46isfsiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
