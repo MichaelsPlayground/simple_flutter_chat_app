@@ -40,6 +40,10 @@ doc: https://firebase.flutter.dev/docs/firestore/usage/
 
 https://firebase.flutter.dev/docs/overview
 
+https://firebase.google.com/codelabs/firebase-get-to-know-flutter#0
+
+code: https://github.com/flutter/codelabs.git flutter-codelabs
+
 https://codelabs.developers.google.com/codelabs/friendlyeats-flutter/#0
 
 Codelab: Get to know Firebase for Flutter https://www.youtube.com/watch?v=wUSkeTaBonA
@@ -99,6 +103,10 @@ defaultConfig {
 applicationId "de.fluttercrypto1.simple_flutter_chat_app"
 minSdkVersion 21
 ```
+
+for auth see: https://blog.logrocket.com/implementing-firebase-authentication-in-a-flutter-app/
+
+https://github.com/sbis04/flutter-authentication
 
 A new Flutter project.
 
